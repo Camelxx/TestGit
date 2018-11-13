@@ -1,1 +1,13 @@
 This was my first Upload on GitHub....
+
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+other commands
+git clone (url)     - Clone a repository to folder
+git add (file names)  - Add File to repository 
+git commit -m "(committed message)  - Commit on file edit update or delete
+git push -u origin master - Push the change to repository 
+git status - Get the satatus of the file push
+git remote add origin master (url)
